@@ -293,7 +293,7 @@ footer {
     border: none;
 
     border-radius: 50%;
-
+    z-index:999;
     cursor: pointer;
 
     color: white;
